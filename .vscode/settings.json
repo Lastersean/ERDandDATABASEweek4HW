@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "Thieves 118 created",
+            "connectString": "\tpostgres://wzgbauiu:LaBcyURM0jtl6dfj-BQvi8ZjobLUM4rn@peanut.db.elephantsql.com/wzgbauiu"
+        }
+    ]
+}
